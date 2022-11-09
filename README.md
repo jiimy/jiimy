@@ -6,6 +6,6 @@
 <p align="center">I'm love scss, making function and Designing an code & folder </p>
 
 <h3 align="center">I Interest...</h3>
-<p align="center">In-house culture,&nbsp;&nbsp; Movies,&nbsp;&nbsp; Work Process&nbsp;&nbsp;</p>
+<p align="center">In-house culture,&nbsp;&nbsp; Work Process&nbsp;&nbsp;</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
