@@ -8,4 +8,7 @@
 <h3 align="center">I Interest...</h3>
 <p align="center">In-house culture,&nbsp;&nbsp; Work Process&nbsp;&nbsp;</p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiimy&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jiimy&show_icons=true">
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
