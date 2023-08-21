@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
 
-<h3 align="center"><b>About me</b></h3>
+<h3 align="center"><b>:raised_hands: About me</b></h3>
 
-<p align="center">Hi There! I'm a publisher & ui developer</p>
-<p align="center">I'm love scss, making function and Designing an code & folder </p>
-
-<h3 align="center">I Interest...</h3>
-<p align="center">In-house culture,&nbsp;&nbsp; Work Process&nbsp;&nbsp;</p>
+<p align="center">ui 설계에 관심이 많은 ui 개발자 입니다. ui 설계를 넘어 데이터 통신까지 영역을 넓히고 싶어 공부중입니다.  <br>
+	스타트업 문화와 조직문화에 관심이 많습니다.
+</p>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
