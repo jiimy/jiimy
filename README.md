@@ -23,7 +23,8 @@
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=jQuery&logoColor=white" />	
-	<img src="https://img.shields.io/badge/styledcomponents-#DB7093?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=jQuery&logoColor=white" />
   	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=TypeScript&logoColor=white"/>
 </div>
 <br>
@@ -33,7 +34,7 @@
   <p>:pencil2: Studying</p>
 	<img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=jQuery&logoColor=white" />
-<img src="https://img.shields.io/badge/storybook-#FF4785?style=flat&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=jQuery&logoColor=white" />
 </div>
 <br>
 <br>
@@ -46,6 +47,9 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=GitHub&logoColor=white" />
+ <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=GitHub&logoColor=white" />
+	
 </div>
 <br>
 <br>
