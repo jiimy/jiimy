@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
 
-<h3 align="center"><b>:raised_hands: About me</b></h3>
+<h4 align="center"><b>:raised_hands: About me</b></h3>
 
-<p align="center">ui 설계에 관심이 많은 ui 개발자 입니다. ui 설계를 넘어 데이터 통신까지 영역을 넓히고 싶어 공부중입니다.  <br>
+<p align="center" font-size="14px">ui 설계에 관심이 많은 ui 개발자 입니다. ui 설계를 넘어 데이터 통신까지 영역을 넓히고 싶어 공부중입니다.  <br>
 	스타트업 문화와 조직문화에 관심이 많습니다.
 </p>
-
+<br>
+<br>
 <div align=center>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
