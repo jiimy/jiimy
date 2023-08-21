@@ -2,8 +2,10 @@
 
 <h4 align="center"><b>:raised_hands: About me</b></h3>
 
-<p align="center" font-size="14px">ui 설계에 관심이 많은 ui 개발자 입니다. <br> ui 설계를 넘어 데이터 통신까지 영역을 넓히고 싶어 공부중입니다.  <br>
-	스타트업 문화와 조직문화에 관심이 많습니다.
+<p align="center" font-size="14px">
+	ui 설계에 관심이 많은 ui 개발자 입니다. <br> 
+	ui 설계를 넘어 데이터 통신까지 영역을 넓히고 싶어 공부중입니다.  <br>
+        스타트업 문화와 조직문화에 관심이 많습니다.
 </p>
 <br>
 <br>
