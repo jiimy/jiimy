@@ -15,26 +15,26 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/gulp-CF4647?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/gulp-CF4647?style=flat&logo=gulp&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=TypeScript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 	<br>
-	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=jQuery&logoColor=white" />	
-	<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=jQuery&logoColor=white" />
-  	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=TypeScript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=reacty&logoColor=white" />
+	<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white" />
+	<img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white" />	
+	<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
+	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+  	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 </div>
 <br>
 <br>
 
 <div align="center">
   <p>:pencil2: Studying</p>
-	<img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=jQuery&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=jQuery&logoColor=white" />
-<img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 </div>
 <br>
 <br>
