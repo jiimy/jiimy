@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 	<br>
-	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=reacty&logoColor=white" />
+	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white" />
 	<img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white" />	
 	<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
