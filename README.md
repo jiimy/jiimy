@@ -47,8 +47,8 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=GitHub&logoColor=white" />
- <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
 	
 </div>
 <br>
