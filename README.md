@@ -6,8 +6,7 @@
 	ui 설계에 관심이 많은 ui 개발자 입니다. <br> 
         스타트업 문화와 조직문화에 관심이 많습니다.
 </p>
-<br>
-<br>
+<br/><br/>
 <div align=center>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -26,8 +25,7 @@
 	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
   	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 </div>
-<br>
-<br>
+<br/><br/>
 
 <div align="center">
   <p>:pencil2: Studying</p>
@@ -35,8 +33,7 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 </div>
-<br>
-<br>
+<br/><br/>
 
 
 
@@ -49,16 +46,16 @@
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
-<br>
-<br>
+<br/><br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiimy&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jiimy&show_icons=true">
 </div>
-<br><br>
+<br/><br/>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jiimy)](https://wakatime.com/@jiimy)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiimy%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
