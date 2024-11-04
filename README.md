@@ -6,7 +6,7 @@
 	ui 설계에 관심이 많은 ui 개발자 입니다. <br> 
         스타트업 문화와 조직문화에 관심이 많습니다.
 </p>
-<br/><br/>
+<br><br>
 <div align=center>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -25,7 +25,7 @@
 	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
   	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 </div>
-<br/><br/>
+<br><br>
 
 <div align="center">
   <p>:pencil2: Studying</p>
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 </div>
-<br/><br/>
+<br><br>
 
 
 
@@ -46,7 +46,7 @@
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
-<br/><br/>
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiimy&layout=compact"><br><br>
