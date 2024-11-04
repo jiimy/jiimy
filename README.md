@@ -51,7 +51,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiimy&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jiimy&show_icons=true">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jiimy)](https://wakatime.com/@jiimy)
+</div>
+<div align="center">
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jiimy)](https://wakatime.com/@jiimy)
 </div>
 
 <br/><br/>
